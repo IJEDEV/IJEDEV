@@ -60,7 +60,10 @@ Cybersecurity Best Practices
 I am building my technical portfolio through practical cybersecurity projects and documented learning experiences.
 
 🤝 Let's Connect
+
 LinkedIn:https://www.linkedin.com/in/ijeoma-nwankwo-86a57022a
 
+
 🚀 My Goal
+
 To continuously learn, develop practical cybersecurity skills and contribute to creating safer digital environments
