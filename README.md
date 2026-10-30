@@ -1,16 +1,66 @@
-## Hi there 👋
+Hi, i'm Nwankwo ijeoma 👋
 
-<!--
-**IJEDEV/IJEDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Analyst | Cybersecurity Intern | Civil Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Cybersecurity Analyst passionate about information security, network protection, vulnerability assessment and digital forensics.
+
+I am continuously developing my technical capabilities through hands-on projects, professional training and practical cybersecurity exercises.
+
+🔐 Areas of Interest
+
+Network Security
+
+Vulnerability Assessment and Penetration Testing
+
+Security Operations (SOC)
+
+Incident Response
+
+Digital Forensics
+
+Risk Assessment
+
+Linux Security
+
+
+🛠️ Tools & Technologies
+
+Kali Linux
+
+Nmap
+
+Linux Command Line
+
+Git & GitHub
+
+VirtualBox
+
+
+🎓 Professional Development
+
+Currently undertaking cybersecurity internship training covering:
+
+Network Security
+
+Vulnerability Assessment
+
+Security Operations
+
+Incident Response
+
+Digital Forensics
+
+Cybersecurity Best Practices
+
+
+📂 Projects
+
+I am building my technical portfolio through practical cybersecurity projects and documented learning experiences.
+
+🤝 Let's Connect
+LinkedIn:https://www.linkedin.com/in/ijeoma-nwankwo-86a57022a
+
+🚀 My Goal
+To continuously learn, develop practical cybersecurity skills and contribute to creating safer digital environments
